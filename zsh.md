@@ -1,1 +1,6 @@
-Configuring ZSH Without Dependencies -> https://thevaluable.dev/zsh-install-configure-mouseless/
+- Getting started with Zsh -> https://opensource.com/article/19/9/getting-started-zsh
+- Configuring ZSH Without Dependencies -> https://thevaluable.dev/zsh-install-configure-mouseless/
+- A Guide to Zsh Expansion with Examples -> https://thevaluable.dev/zsh-expansion-guide-example/
+- A Guide to the Zsh Completion with Examples -> https://thevaluable.dev/zsh-completion-guide-examples/
+- A Guide to the Zsh Line Editor with Examples -> https://thevaluable.dev/zsh-line-editor-configuration-mouseless/
+- 
